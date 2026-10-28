@@ -9,5 +9,5 @@ def stop():
 
 
 if __name__ == "__main__":
-    move(4.0)
+    move(400.0)
     stop()
